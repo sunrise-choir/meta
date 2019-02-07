@@ -2,6 +2,8 @@
 
 meta information about the Sunrise Choir 🔩🌅🙏🎶
 
+[**_support us on OpenCollective!_**](https://opencollective.com/sunrise-choir)
+
 ## announcement
 
 Scuttlebutt post: `%zv56AbEcR1+XKcOF3E7J+HNoKrxsd+0MQ/eVPQanfb8=.sha256`
@@ -21,6 +23,8 @@ all our meeting notes: [./meetings](./meetings)
 - [Website](https://sunrisechoir.com)
 - [GitHub](https://github.com/sunrise-choir)
 - [Twitter](https://twitter.com/sunrise_choir)
+- [OpenCollective](https://opencollective.com/sunrise-choir)
+- [Medium](https://medium.com/@choir.sunrise)
 
 ## members
 
