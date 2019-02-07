@@ -8,6 +8,10 @@ Scuttlebutt post: `%zv56AbEcR1+XKcOF3E7J+HNoKrxsd+0MQ/eVPQanfb8=.sha256`
 
 local copy: [announcement.md](./announcement.md)
 
+## newsletters
+
+- [January Newsletter](./newsletters/2019-02-01.md)
+
 ## meetings
 
 all our meeting notes: [./meetings](./meetings)
