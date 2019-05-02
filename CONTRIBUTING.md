@@ -59,7 +59,6 @@ Have a look at the issue tracker for the relevant repository. If you can't find 
 - What is the full error you are seeing?
 - How can we reproduce this?
   - Please quote as much of your code as needed to reproduce (best link to a public repository or [Gist](https://gist.github.com/)
-  - Please post as much of your database schema as is relevant to your error 
 
 Thank you! We'll try to respond as quickly as possible.
 
@@ -78,7 +77,7 @@ Thank you! We'll try to respond as quickly as possible.
 
 **Before you are able to submit code changes to the Sunrise Choir, you must first sign a [Contributor License Agreement](https://github.com/sunrise-choir/meta/blob/master/processes/cla.md)!** :heart:
 
-Please be sure to follow the relevant [Style Guide(s)](#style guide).
+Please be sure to follow the relevant [Style Guides](#style-guide).
 
 ### Style Guide
 
