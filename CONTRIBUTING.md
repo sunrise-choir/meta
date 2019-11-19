@@ -2,6 +2,8 @@
 
 Thanks for your interest in contributing to the Sunrise Choir! :sunrise: :pray: :notes:
 
+(**Before we accept your contributions to the Sunrise Choir, you must first sign a [Contributor License Agreement](https://github.com/sunrise-choir/meta/blob/master/processes/cla.md)!** :heart: )
+
 This project is open commons that anyone can improve, stewarded by the Sunrise Choir team. :smiley_cat:
 
 We welcome all contributions, such as but not limited to:
@@ -75,7 +77,7 @@ Thank you! We'll try to respond as quickly as possible.
 
 ### Code contributions
 
-**Before you are able to submit code changes to the Sunrise Choir, you must first sign a [Contributor License Agreement](https://github.com/sunrise-choir/meta/blob/master/processes/cla.md)!** :heart:
+**Before we accept your code contributions to the Sunrise Choir, you must first sign a [Contributor License Agreement](https://github.com/sunrise-choir/meta/blob/master/processes/cla.md)!** :heart:
 
 Please be sure to follow the relevant [Style Guides](#style-guide).
 
