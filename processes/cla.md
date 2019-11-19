@@ -1,26 +1,26 @@
-
-
 # Contributor License Agreement
 
-to contribute to the Sunrise Choir, you must first sign a Contributor License Agreeement.
+To contribute to the Sunrise Choir, you must first sign a Contributor License Agreeement (CLA). :tophat:
 
-## why?
+## Why?
 
-@ahdinosaur, the steward of the Sunrise Choir, is committed to open source, at the moment all the code is licensed under the AGPL-3.0 copyleft licence.
+Mikey (@ahdinosaur), the steward of the Sunrise Choir, is committed to open source, and at the moment all the code is licensed under the AGPL-3.0 copyleft licence.
 
-the reasoning behind a Contributor License Agreement is to better actively capture the value we create, so we can fund future open source development, rather than passively allow the value of our commons be extracted by others who aren't willing to reciprocate in sharing.
+The Sunrise Choir intends to actively capture the value we create, so we can fund future open source development, rather than passively allow the value of our commons be extracted by others who aren't willing to reciprocate in sharing.
 
-a Contributor License Agreement, as implemented here, allows contributors to grant a broad exclusive license to @ahdinosaur, the steward of the Sunrise Choir.
+As such, the Contributor License Agreement is an experiment to “own” our copyright, so we have the flexibility to explore possible strategies like selling proprietary licenses to businesses profiting from our code or other such ways to capture the value we create, so maybe one day we can be financially sustainable (and not dependent on individual funding sources).
 
-## how?
+A Contributor License Agreement, as implemented here, allows contributors to grant a broad exclusive license to Mikey (@ahdinosaur), the steward of the Sunrise Choir. Until we have a proper legal entity with more decentralized governance, this means contributors trusting Mikey (@ahdinosaur) to steward their contribution’s copyright on behalf of the Sunrise Choir.
 
-once you contribute something significant, @ahdinosaur will contact you and setup a digital signature process using [HelloSign](https://hellosign.com).
+## How?
 
-the document to sign is [this Individual Contributor License Agreement](https://drive.google.com/file/d/1N8lEZ39ECsRneq_8I5Tk50_RxBBJwPOb/view?usp=sharing).
+Once you contribute something significant, Mikey (@ahdinosaur) will contact you and setup a digital signature process using [HelloSign](https://hellosign.com).
 
-after you sign, the document will be uploaded to a [drive](https://drive.google.com/drive/folders/1z0VFC1gV4x3KzdQdxZZSgUwXelwRW5JW?usp=sharing) for safe storage.
+The document to sign is [this Individual Contributor License Agreement](https://drive.google.com/file/d/1N8lEZ39ECsRneq_8I5Tk50_RxBBJwPOb/view?usp=sharing).
 
-the document has been generated via http://contributoragreements.org/ca-cla-chooser/ with the following fields:
+After you sign, the document will be uploaded to a [drive](https://drive.google.com/drive/folders/1z0VFC1gV4x3KzdQdxZZSgUwXelwRW5JW?usp=sharing) for safe storage.
+
+The document has been generated via http://contributoragreements.org/ca-cla-chooser/ with the following fields:
 
 | Option | Choice |
 |---|---|
