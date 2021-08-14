@@ -2,8 +2,6 @@
 
 Thanks for your interest in contributing to the Sunrise Choir! :sunrise: :pray: :notes:
 
-(**Before we accept your contributions to the Sunrise Choir, you must first sign a [Contributor License Agreement](https://github.com/sunrise-choir/meta/blob/master/processes/cla.md)!** :heart: )
-
 This project is open commons that anyone can improve, stewarded by the Sunrise Choir team. :smiley_cat:
 
 We welcome all contributions, such as but not limited to:
@@ -75,9 +73,11 @@ If you can't find an issue (open or closed) describing your idea, open an issue.
 
 Thank you! We'll try to respond as quickly as possible.
 
-### Code contributions
+### Licensing
 
-**Before we accept your code contributions to the Sunrise Choir, you must first sign a [Contributor License Agreement](https://github.com/sunrise-choir/meta/blob/master/processes/cla.md)!** :heart:
+We prefer to license libraries under the LGPL-3.0 license, apps under the MPL-2.0 license, and documentation / specifications under the CC-BY 4.0 license.
+
+### Code contributions
 
 Please be sure to follow the relevant [Style Guides](#style-guide).
 
